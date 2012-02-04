@@ -4,10 +4,10 @@ This gem packages the "[Aristo](https://github.com/taitems/Aristo-jQuery-UI-Them
 
 ## Installation
 
-* Add `jquery-ui-aristo` to your `Gemfile`:
+* Add jquery-rails-aristo to your `Gemfile`:
     
-        gem "jqury-ui-aristo"
+        gem "jquery-rails-aristo"
 
-* Add the following linee to your `application.css.scss`
+* Add the following line to your `application.css.scss`
 
         //= require jqueryui-aristo/aristo

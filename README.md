@@ -10,4 +10,4 @@ This gem packages the "[Aristo](https://github.com/taitems/Aristo-jQuery-UI-Them
 
 * Add the following line to your `application.css.scss`
 
-        //= require jqueryui-aristo/aristo
+        @import "jqueryui-aristo/aristo";

@@ -1,6 +1,6 @@
 # Rails asset pipeline integration for the "Aristo" jQuery UI Theme
 
-This gem packages the "[Aristo](https://github.com/taitems/Aristo-jQuery-UI-Theme)" theme for [jQuery UI](http://www.jqueryui.com) for use with the asset pipeline in Rails 3.1 and higher.
+This gem packages the "[Aristo](https://github.com/taitems/Aristo-jQuery-UI-Theme)" theme for [jQuery UI](http://www.jqueryui.com) for use with the asset pipeline in Rails 3.1 and higher (also works with Rails 4).
 
 ## Installation
 

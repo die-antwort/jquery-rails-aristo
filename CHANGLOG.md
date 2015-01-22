@@ -1,3 +1,6 @@
+# Version 1.0.3
+* Update to latest Aristo release (now also supporting jQuery UI 1.10).
+
 # Version 1.0.2
 * Add support for Rails 4.
 
